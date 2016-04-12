@@ -1,0 +1,16 @@
+# Node.js with Express and Stlyus
+/.monitor
+
+# Eclipse
+/.project
+/.settings
+/.buildpath
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Windows
+Thumbs.db
+
+
